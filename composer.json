@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/customerhelper",
+    "type": "magento-module",
+    "license": "OSL",
+    "homepage": "",
+    "description": "This extension will help customers to logon when they lost their login information and informs them by mail.",
+    "authors": [
+    {
+        "name": "Matthias Kleine",
+        "email": "development@mkleine.de"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
