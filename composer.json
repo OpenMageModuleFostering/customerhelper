@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/customerhelper",
+    "name": "openmage-module-fostering\/customerhelper",
     "type": "magento-module",
-    "license": "OSL",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "This extension will help customers to logon when they lost their login information and informs them by mail.",
     "authors": [
